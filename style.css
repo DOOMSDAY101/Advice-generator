@@ -38,7 +38,9 @@ q {
     font-size: 28px;
     color: white;
     font-weight: 800;
-    margin-bottom: 30px;
+}
+.image {
+    margin-top: 30px;
 }
 
 .btn{
@@ -58,7 +60,6 @@ q {
     outline: 0;
 
 }
-
 @media only screen and (min-width: 800px) {
     div.container {
     width: 700px;
